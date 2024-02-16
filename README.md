@@ -24,5 +24,3 @@ Aprimore seu entendimento com slides visuais e interativos que tornam as aulas m
 ## Explore e Transforme Seu Aprendizado!
 
 Navegue pelas pastas, experimente os desafios e embarque em uma jornada de aprendizado empolgante com Python. Estamos aqui para ajudá-lo a alcançar novos patamares! 🚀🐍
-
-*[Acesse agora!](#)*
