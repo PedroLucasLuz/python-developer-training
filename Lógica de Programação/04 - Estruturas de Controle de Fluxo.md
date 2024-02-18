@@ -1,7 +1,7 @@
 # ESTRUTURAS DE CONTROLE DE FLUXO
 
 <aside>
-💡 A estrutura condicional em Python permite que você execute diferentes blocos de código com base em condições específicas. As principais construções são **`if`**, **`else`** e **`elif`** (abreviação de "else if").
+💡 A estrutura condicional em Python permite que você execute diferentes blocos de código com base em condições específicas. As principais construções são if, else e elif (abreviação de "else if").
 
 </aside>
 
